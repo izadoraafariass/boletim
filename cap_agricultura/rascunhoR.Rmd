@@ -41,7 +41,7 @@ triForm <- function(x) paste0(substr(x, 6, 6),"T\n",substr(x, 1, 4))
 ```
 
 #Agricultura#
-
+abaixo teste
 
 ```{r producao, fig.cap= "Produção Tocantins", fig.subcap="12 meses", fig.source = "IBGE", wrap = "open"}
 # Produção - Tocantins 2020
